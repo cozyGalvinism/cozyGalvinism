@@ -86,8 +86,7 @@ def generate_language_line(language: Language):
     return line
 
 def generate_md_table(languages: List[Language]):
-    header = """| Language | Total XP | XP gained (last 12 hours) |
-    | --- | --- | --- |"""
+    header = """| Language | Total XP | XP gained (last 12 hours) |\n| --- | --- | --- |"""
     body = "\n".join(list(map(generate_language_line, languages)))
     return f"""{header}
     {body}"""
@@ -99,12 +98,12 @@ if __name__ == "__main__":
     md_lang_table = generate_md_table(top_languages)
 
     readme_complete = f"""### cozy's coding space
-    *But not as cozy as you think*
+*But not as cozy as you think*
+
+I've been coding for a little over 17 years, using various languages! See below, a list with my current top {len(top_languages)} used languages, powered by Code::Stats :3
     
-    I've been coding for a little over 17 years, using various languages! See below, a list with my current top {len(top_languages)} used languages, powered by Code::Stats :3
+{md_lang_table}
     
-    {md_lang_table}
-    
-    My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D"""
+My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D"""
     with open(readme, 'w') as f:
         f.write(readme_complete)
