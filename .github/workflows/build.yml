@@ -29,7 +29,7 @@ jobs:
         python -m pipenv sync
     - name: Update README
       run: |-
-        python build.py
+        python -m pipenv run python build.py
         cat README.md
     - name: Commit and push if changed
       run: |-
