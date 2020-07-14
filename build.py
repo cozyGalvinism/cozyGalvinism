@@ -89,7 +89,7 @@ def generate_md_table(languages: List[Language]):
     header = """| Language | Total XP | XP gained (last 12 hours) |\n| --- | --- | --- |"""
     body = "\n".join(list(map(generate_language_line, languages)))
     return f"""{header}
-    {body}"""
+{body}"""
 
 if __name__ == "__main__":
     readme = root / "README.md"
