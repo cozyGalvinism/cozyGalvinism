@@ -2,6 +2,7 @@ import requests
 import pathlib
 import datetime
 from typing import List
+import math
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -73,6 +74,10 @@ def get_levels():
     me = User(levels_response['user'], levels_response['total_xp'], levels_response['new_xp'], levels_response['machines'], levels_response['languages'], levels_response['dates'])
     return me
 
+def to_level(xp):
+    LEVEL_FACTOR = 0.025
+    return int(math.floor(LEVEL_FACTOR * math.sqrt(xp)))
+
 def human_format(num):
     num = float('{:.3g}'.format(num))
     magnitude = 0
@@ -82,11 +87,11 @@ def human_format(num):
     return '{}{}'.format('{:f}'.format(num).rstrip('0').rstrip('.'), ['', 'k', 'M', 'B', 'T', 'P'][magnitude])
 
 def generate_language_line(language: Language):
-    line = f"| {language.name} | {human_format(language.xps)} | {human_format(language.new_xps)} |"
+    line = f"| {language.name} | {to_level(language.xps)} | {human_format(language.xps)} | {human_format(language.new_xps)} |"
     return line
 
 def generate_md_table(languages: List[Language]):
-    header = """| Language | Total XP | XP gained (last 12 hours) |\n| --- | --- | --- |"""
+    header = """| Language | Level | Total XP | XP gained (last 12 hours) |\n| --- | --- | --- |"""
     body = "\n".join(list(map(generate_language_line, languages)))
     return f"""{header}
 {body}"""
