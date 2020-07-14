@@ -91,7 +91,7 @@ def generate_language_line(language: Language):
     return line
 
 def generate_md_table(languages: List[Language]):
-    header = """| Language | Level | Total XP | XP gained (last 12 hours) |\n| --- | --- | --- |"""
+    header = """| Language | Level | Total XP | XP gained (last 12 hours) |\n| --- | --- | --- | --- |"""
     body = "\n".join(list(map(generate_language_line, languages)))
     return f"""{header}
 {body}"""
