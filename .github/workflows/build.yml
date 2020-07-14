@@ -26,8 +26,7 @@ jobs:
     - name: Install Pipenv + dependencies
       run: |-
         python -m pip install pipenv
-        python -m pipenv install
-        python -m pipenv install
+        python -m pipenv sync
     - name: Update README
       run: |-
         python build.py
