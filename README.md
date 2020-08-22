@@ -10,7 +10,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 4 | 35.3k | 0 |
-| Lua | 4 | 29.1k | 2.55k |
+| Lua | 4 | 29.3k | 2.82k |
 | JSON | 3 | 23.7k | 0 |
 | HTML | 3 | 15.3k | 0 |
 | JavaScript | 2 | 11.9k | 0 |
