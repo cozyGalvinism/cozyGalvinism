@@ -5,14 +5,14 @@ I've been coding for a little over 17 years, using various languages! See below,
     
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Python | 14 | 353k | 2.36k |
+| Python | 14 | 355k | 4.78k |
 | C# | 8 | 111k | 0 |
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 4 | 35.6k | 0 |
 | Lua | 4 | 29.3k | 0 |
 | JSON | 3 | 23.8k | 0 |
-| HTML | 3 | 15.3k | 0 |
+| HTML | 3 | 16.5k | 1.18k |
 | JavaScript | 2 | 11.9k | 0 |
 | Terminal (Zsh) | 2 | 9.23k | 0 |
     
