@@ -14,6 +14,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | JSON | 3 | 24.2k | 0 |
 | HTML | 3 | 16.5k | 0 |
 | JavaScript | 2 | 13k | 0 |
-| Terminal (Zsh) | 2 | 9.23k | 0 |
+| AsciiDoc | 2 | 9.75k | 9.75k |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
