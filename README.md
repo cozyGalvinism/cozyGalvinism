@@ -11,7 +11,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 4 | 36.2k | 0 |
 | Lua | 4 | 29.3k | 0 |
-| AsciiDoc | 4 | 25.8k | 789 |
+| AsciiDoc | 4 | 26.7k | 1.72k |
 | JSON | 3 | 24.2k | 15 |
 | HTML | 3 | 16.6k | 3 |
 | JavaScript | 2 | 13k | 0 |
