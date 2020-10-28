@@ -9,8 +9,8 @@ I've been coding for a little over 17 years, using various languages! See below,
 | C# | 8 | 114k | 0 |
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
-| Markdown | 4 | 36.2k | 0 |
-| AsciiDoc | 4 | 31.3k | 0 |
+| Markdown | 4 | 36.3k | 17 |
+| AsciiDoc | 4 | 32k | 709 |
 | Lua | 4 | 29.3k | 0 |
 | JSON | 3 | 24.2k | 0 |
 | HTML | 3 | 16.6k | 0 |
