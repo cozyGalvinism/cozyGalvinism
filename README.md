@@ -6,13 +6,13 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Python | 16 | 413k | 422 |
-| C# | 8 | 114k | 290 |
+| C# | 8 | 118k | 4.13k |
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 4 | 36.5k | 0 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.3k | 0 |
-| JSON | 3 | 24.2k | 0 |
+| JSON | 3 | 24.3k | 15 |
 | HTML | 3 | 16.6k | 0 |
 | JavaScript | 2 | 13k | 0 |
     
