@@ -5,7 +5,7 @@ I've been coding for a little over 17 years, using various languages! See below,
     
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Python | 16 | 419k | 2.58k |
+| Python | 16 | 419k | 2.38k |
 | C# | 8 | 119k | 4 |
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
