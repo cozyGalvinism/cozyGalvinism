@@ -12,8 +12,8 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Markdown | 4 | 39.4k | 0 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.3k | 0 |
-| JSON | 3 | 24.9k | 107 |
-| HTML | 3 | 17.8k | 191 |
-| JavaScript | 3 | 17k | 608 |
+| JSON | 3 | 24.9k | 26 |
+| HTML | 3 | 17.8k | 91 |
+| JavaScript | 3 | 17k | 20 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
