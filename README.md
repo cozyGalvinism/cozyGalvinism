@@ -13,7 +13,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.3k | 0 |
 | JSON | 3 | 24.9k | 0 |
+| JavaScript | 3 | 18.1k | 1.07k |
 | HTML | 3 | 17.8k | 0 |
-| JavaScript | 3 | 17.1k | 55 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
