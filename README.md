@@ -14,6 +14,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Lua | 4 | 29.3k | 0 |
 | JSON | 3 | 25.5k | 148 |
 | JavaScript | 3 | 23.3k | 501 |
-| HTML | 3 | 18.9k | 658 |
+| HTML | 3 | 19.1k | 894 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
