@@ -12,7 +12,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Markdown | 4 | 39.4k | 0 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.3k | 0 |
-| JavaScript | 4 | 26k | 0 |
+| JavaScript | 4 | 27.8k | 1.82k |
 | JSON | 3 | 25.5k | 0 |
 | HTML | 3 | 19.1k | 0 |
     
