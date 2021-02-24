@@ -9,11 +9,11 @@ I've been coding for a little over 17 years, using various languages! See below,
 | C# | 8 | 127k | 0 |
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
-| Markdown | 5 | 46.2k | 0 |
+| Markdown | 5 | 46.6k | 388 |
 | JavaScript | 4 | 35.7k | 0 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.9k | 0 |
-| JSON | 4 | 25.7k | 13 |
+| JSON | 4 | 25.7k | 21 |
 | HTML | 3 | 19.1k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
