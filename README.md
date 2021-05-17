@@ -5,8 +5,8 @@ I've been coding for a little over 17 years, using various languages! See below,
     
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Python | 19 | 630k | 186 |
-| C# | 11 | 208k | 141 |
+| Python | 19 | 630k | 96 |
+| C# | 11 | 208k | 0 |
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 5 | 47.2k | 0 |
@@ -14,6 +14,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.9k | 0 |
 | JSON | 4 | 26k | 0 |
-| Rust | 3 | 22.9k | 75 |
+| Rust | 3 | 22.9k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
