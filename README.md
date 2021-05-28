@@ -14,6 +14,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.9k | 0 |
 | JSON | 4 | 26.8k | 0 |
-| Rust | 3 | 23.1k | 0 |
+| Rust | 3 | 24.2k | 1.13k |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
