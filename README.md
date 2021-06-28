@@ -10,8 +10,8 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 5 | 47.2k | 0 |
+| Rust | 4 | 37.2k | 2.08k |
 | JavaScript | 4 | 36k | 0 |
-| Rust | 4 | 35.2k | 0 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 29.9k | 0 |
 | JSON | 4 | 26.8k | 0 |
