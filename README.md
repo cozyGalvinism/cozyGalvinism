@@ -8,8 +8,8 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Python | 19 | 633k | 0 |
 | C# | 11 | 216k | 0 |
 | Java | 7 | 81.6k | 0 |
+| Rust | 5 | 51.5k | 6.51k |
 | LaTeX | 5 | 49.7k | 0 |
-| Rust | 5 | 49.5k | 4.44k |
 | Markdown | 5 | 47.2k | 0 |
 | JavaScript | 4 | 36k | 0 |
 | AsciiDoc | 4 | 32k | 0 |
