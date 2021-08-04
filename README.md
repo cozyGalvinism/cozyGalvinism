@@ -1,13 +1,15 @@
 ### cozy's coding space
 *But not as cozy as you think*
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J75ITL4)
+
 I've been coding for a little over 17 years, using various languages! See below, a list with my current top 10 used languages, powered by Code::Stats :3
     
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Python | 20 | 642k | 405 |
 | C# | 11 | 216k | 0 |
-| Rust | 8 | 105k | 154 |
+| Rust | 8 | 105k | 159 |
 | Java | 7 | 81.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 5 | 47.3k | 0 |
