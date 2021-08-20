@@ -7,7 +7,7 @@ I've been coding for a little over 17 years, using various languages! See below,
     
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Python | 20 | 644k | 291 |
+| Python | 20 | 644k | 17 |
 | C# | 11 | 216k | 0 |
 | Rust | 8 | 109k | 0 |
 | Java | 7 | 99k | 0 |
