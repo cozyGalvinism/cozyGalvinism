@@ -9,7 +9,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | --- | --- | --- | --- |
 | Python | 20 | 645k | 0 |
 | C# | 11 | 216k | 0 |
-| Rust | 8 | 112k | 2.09k |
+| Rust | 8 | 112k | 765 |
 | Java | 7 | 99.6k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Markdown | 5 | 48.7k | 0 |
