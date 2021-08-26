@@ -9,13 +9,13 @@ I've been coding for a little over 17 years, using various languages! See below,
 | --- | --- | --- | --- |
 | Python | 20 | 645k | 0 |
 | C# | 11 | 216k | 0 |
-| Rust | 8 | 125k | 3.04k |
+| Rust | 8 | 125k | 2.94k |
 | Java | 7 | 99.6k | 44 |
 | Markdown | 5 | 50k | 1.29k |
 | LaTeX | 5 | 49.7k | 0 |
 | JavaScript | 4 | 36.2k | 0 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 30.2k | 0 |
-| JSON | 4 | 27k | 50 |
+| JSON | 4 | 27k | 4 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
