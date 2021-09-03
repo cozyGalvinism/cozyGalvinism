@@ -1,6 +1,8 @@
 ### cozy's coding space
 *But not as cozy as you think*
 
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2173?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J75ITL4)
 
 I've been coding for a little over 17 years, using various languages! See below, a list with my current top 10 used languages, powered by Code::Stats :3
@@ -9,7 +11,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | --- | --- | --- | --- |
 | Python | 20 | 645k | 0 |
 | C# | 11 | 216k | 0 |
-| Rust | 9 | 143k | 5.01k |
+| Rust | 9 | 143k | 5.05k |
 | Java | 7 | 99.6k | 0 |
 | Markdown | 5 | 53k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
