@@ -1,7 +1,7 @@
 ### cozy's coding space
 *But not as cozy as you think*
 
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2173?logoColor=white%26project=%26recentMS=0%26showProject=false)
+[![wakatime](https://wakatime.com/badge/user/c0ba07bb-3421-41be-bd1a-d611e670f250.svg)](https://wakatime.com/@c0ba07bb-3421-41be-bd1a-d611e670f250)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J75ITL4)
 
