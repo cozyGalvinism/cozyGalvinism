@@ -13,9 +13,9 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Python | 20 | 665k | 0 |
 | C# | 12 | 249k | 0 |
 | Java | 7 | 102k | 0 |
-| Markdown | 7 | 82.5k | 252 |
+| Markdown | 7 | 83.1k | 809 |
 | LaTeX | 5 | 49.7k | 0 |
-| JavaScript | 4 | 39.9k | 2.17k |
+| JavaScript | 5 | 40.1k | 2.36k |
 | AsciiDoc | 4 | 32k | 0 |
 | JSON | 4 | 31.1k | 49 |
 | Lua | 4 | 30.2k | 0 |
