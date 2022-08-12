@@ -11,7 +11,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | --- | --- | --- | --- |
 | Rust | 21 | 750k | 0 |
 | Python | 20 | 666k | 0 |
-| C# | 12 | 250k | 128 |
+| C# | 12 | 250k | 0 |
 | Java | 7 | 102k | 0 |
 | Markdown | 7 | 86.9k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
