@@ -13,7 +13,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Python | 20 | 666k | 0 |
 | C# | 12 | 250k | 0 |
 | Java | 7 | 102k | 0 |
-| Markdown | 7 | 86.9k | 0 |
+| Markdown | 7 | 87.2k | 309 |
 | LaTeX | 5 | 49.7k | 0 |
 | JavaScript | 5 | 44.5k | 0 |
 | JSON | 4 | 32k | 0 |
