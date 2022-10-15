@@ -12,11 +12,11 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Rust | 22 | 802k | 0 |
 | Python | 20 | 668k | 0 |
 | C# | 12 | 250k | 0 |
-| Markdown | 8 | 108k | 0 |
+| Markdown | 8 | 108k | 112 |
 | Java | 7 | 102k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | JavaScript | 5 | 47.7k | 148 |
-| JSON | 4 | 33.3k | 312 |
+| JSON | 4 | 33.3k | 316 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 30.2k | 0 |
     
