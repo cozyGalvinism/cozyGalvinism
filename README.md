@@ -16,7 +16,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Java | 7 | 102k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | JavaScript | 5 | 47.8k | 0 |
-| JSON | 4 | 35.9k | 8 |
+| JSON | 4 | 35.9k | 24 |
 | AsciiDoc | 4 | 32k | 0 |
 | Lua | 4 | 30.2k | 0 |
     
