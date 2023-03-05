@@ -18,6 +18,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | JavaScript | 5 | 47.9k | 16 |
 | JSON | 4 | 36.3k | 2 |
 | AsciiDoc | 4 | 32k | 0 |
-| YAML | 4 | 30.4k | 744 |
+| YAML | 4 | 30.4k | 516 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
