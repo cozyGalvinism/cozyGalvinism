@@ -17,7 +17,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | LaTeX | 5 | 49.7k | 0 |
 | JavaScript | 5 | 48.2k | 0 |
 | JSON | 4 | 36.6k | 29 |
-| YAML | 4 | 32.1k | 92 |
+| YAML | 4 | 32.2k | 134 |
 | AsciiDoc | 4 | 32k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
