@@ -16,8 +16,8 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Java | 7 | 102k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | JavaScript | 5 | 48.2k | 0 |
-| JSON | 4 | 36.8k | 6 |
+| JSON | 4 | 36.8k | 0 |
 | Svelte | 4 | 35.8k | 0 |
-| TypeScript | 4 | 32.9k | 2 |
+| TypeScript | 4 | 32.9k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
