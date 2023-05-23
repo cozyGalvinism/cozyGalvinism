@@ -18,6 +18,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | JavaScript | 5 | 48.2k | 0 |
 | JSON | 4 | 36.8k | 6 |
 | Svelte | 4 | 35.8k | 1.63k |
-| TypeScript | 4 | 32.9k | 1.93k |
+| TypeScript | 4 | 32.9k | 1.82k |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
