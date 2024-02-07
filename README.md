@@ -10,9 +10,9 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Rust | 30 | 1.45M | 0 |
-| Python | 20 | 696k | 213 |
+| Python | 20 | 696k | 0 |
 | C# | 12 | 252k | 0 |
-| Markdown | 9 | 144k | 107 |
+| Markdown | 9 | 144k | 0 |
 | Java | 7 | 102k | 0 |
 | JavaScript | 5 | 56.1k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
