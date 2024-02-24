@@ -14,10 +14,10 @@ I've been coding for a little over 17 years, using various languages! See below,
 | C# | 12 | 252k | 0 |
 | Markdown | 9 | 145k | 0 |
 | Java | 7 | 102k | 0 |
-| JavaScript | 5 | 56.8k | 72 |
+| JavaScript | 6 | 57.7k | 935 |
 | LaTeX | 5 | 49.7k | 0 |
-| JSON | 4 | 38.9k | 3 |
-| Svelte | 4 | 37.5k | 0 |
+| JSON | 4 | 38.9k | 9 |
+| Svelte | 4 | 37.6k | 145 |
 | TOML | 4 | 34.4k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
