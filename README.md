@@ -18,6 +18,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | LaTeX | 5 | 49.7k | 0 |
 | Svelte | 4 | 39.8k | 0 |
 | JSON | 4 | 39.3k | 2 |
-| TOML | 4 | 37.1k | 5 |
+| TOML | 4 | 37.1k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
