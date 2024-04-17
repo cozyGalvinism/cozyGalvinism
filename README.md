@@ -9,7 +9,7 @@ I've been coding for a little over 17 years, using various languages! See below,
     
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Rust | 31 | 1.55M | 13 |
+| Rust | 31 | 1.55M | 3.26k |
 | Python | 21 | 708k | 0 |
 | C# | 12 | 252k | 0 |
 | Markdown | 9 | 148k | 0 |
@@ -18,6 +18,6 @@ I've been coding for a little over 17 years, using various languages! See below,
 | LaTeX | 5 | 49.7k | 0 |
 | Svelte | 4 | 39.8k | 0 |
 | JSON | 4 | 39.3k | 0 |
-| XML | 4 | 38.7k | 0 |
+| XML | 4 | 38.7k | 12 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
