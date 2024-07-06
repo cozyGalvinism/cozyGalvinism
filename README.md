@@ -12,12 +12,12 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Rust | 32 | 1.7M | 4 |
 | Python | 21 | 713k | 0 |
 | C# | 12 | 252k | 0 |
-| Markdown | 10 | 171k | 5.45k |
+| Markdown | 10 | 171k | 1.13k |
 | Java | 7 | 102k | 0 |
-| JavaScript | 6 | 63.1k | 22 |
+| JavaScript | 6 | 63.1k | 9 |
 | LaTeX | 5 | 49.7k | 0 |
 | Svelte | 5 | 45k | 0 |
 | XML | 5 | 42.5k | 0 |
-| JSON | 5 | 40.9k | 4 |
+| JSON | 5 | 40.9k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
