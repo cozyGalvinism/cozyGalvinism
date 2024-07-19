@@ -15,7 +15,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Markdown | 10 | 171k | 0 |
 | Java | 7 | 102k | 0 |
 | JavaScript | 6 | 63.1k | 0 |
-| Svelte | 5 | 51.8k | 1.13k |
+| Svelte | 5 | 52.4k | 665 |
 | LaTeX | 5 | 49.7k | 0 |
 | Lua | 5 | 42.7k | 0 |
 | XML | 5 | 42.6k | 0 |
