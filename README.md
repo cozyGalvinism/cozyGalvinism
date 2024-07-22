@@ -17,7 +17,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Svelte | 6 | 68k | 1.98k |
 | JavaScript | 6 | 63.4k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
-| Lua | 5 | 42.8k | 77 |
+| Lua | 5 | 43k | 271 |
 | XML | 5 | 42.6k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D
