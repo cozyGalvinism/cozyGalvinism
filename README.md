@@ -14,7 +14,7 @@ I've been coding for a little over 17 years, using various languages! See below,
 | C# | 12 | 252k | 0 |
 | Markdown | 10 | 173k | 28 |
 | Java | 7 | 102k | 0 |
-| Svelte | 6 | 76.5k | 1.41k |
+| Svelte | 6 | 76.5k | 1.03k |
 | JavaScript | 6 | 64k | 210 |
 | LaTeX | 5 | 49.7k | 0 |
 | Lua | 5 | 43k | 0 |
