@@ -12,9 +12,9 @@ I've been coding for a little over 17 years, using various languages! See below,
 | Rust | 33 | 1.75M | 0 |
 | Python | 21 | 719k | 0 |
 | C# | 12 | 252k | 0 |
-| Markdown | 10 | 175k | 862 |
+| Markdown | 10 | 175k | 1 |
 | Java | 7 | 102k | 0 |
-| Svelte | 7 | 88.3k | 1.44k |
+| Svelte | 7 | 88.3k | 112 |
 | JavaScript | 6 | 64.2k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
 | Lua | 5 | 43k | 0 |
