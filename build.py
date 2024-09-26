@@ -101,6 +101,7 @@ if __name__ == "__main__":
     me = get_levels()
     top_languages = me.languages[:10]
     md_lang_table = generate_md_table(top_languages)
+    years = datetime.date.today() - 2004
 
     readme_complete = f"""### cozy's coding space
 *But not as cozy as you think*
@@ -109,10 +110,10 @@ if __name__ == "__main__":
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J75ITL4)
 
-I've been coding for a little over 17 years, using various languages! See below, a list with my current top {len(top_languages)} used languages, powered by Code::Stats :3
+I've been coding for a little over {years} years, using various languages! See below, a list with my current top {len(top_languages)} used languages, powered by Code::Stats!
     
 {md_lang_table}
     
-My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this ;D"""
+My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this."""
     with open(readme, 'w') as f:
         f.write(readme_complete)
