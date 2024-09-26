@@ -101,7 +101,7 @@ if __name__ == "__main__":
     me = get_levels()
     top_languages = me.languages[:10]
     md_lang_table = generate_md_table(top_languages)
-    years = datetime.date.today() - 2004
+    years = datetime.date.today().year - 2004
 
     readme_complete = f"""### cozy's coding space
 *But not as cozy as you think*
