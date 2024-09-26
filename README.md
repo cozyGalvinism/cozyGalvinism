@@ -9,15 +9,15 @@ I've been coding for a little over 20 years, using various languages! See below,
     
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Rust | 33 | 1.8M | 373 |
+| Rust | 33 | 1.8M | 365 |
 | Python | 21 | 723k | 39 |
 | C# | 12 | 252k | 0 |
-| Markdown | 10 | 176k | 206 |
-| Svelte | 8 | 114k | 2.13k |
+| Markdown | 10 | 176k | 134 |
+| Svelte | 8 | 114k | 946 |
 | Java | 7 | 102k | 0 |
 | JavaScript | 6 | 64.3k | 4 |
 | LaTeX | 5 | 49.7k | 0 |
-| TypeScript | 5 | 48.2k | 462 |
+| TypeScript | 5 | 48.2k | 40 |
 | Lua | 5 | 43k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this.
