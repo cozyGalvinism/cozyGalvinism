@@ -15,9 +15,9 @@ I've been coding for a little over 20 years, using various languages! See below,
 | Markdown | 10 | 176k | 3 |
 | Svelte | 8 | 115k | 692 |
 | Java | 7 | 102k | 0 |
-| JavaScript | 6 | 64.3k | 10 |
+| JavaScript | 6 | 64.3k | 0 |
 | LaTeX | 5 | 49.7k | 0 |
-| TypeScript | 5 | 48.5k | 277 |
+| TypeScript | 5 | 48.5k | 236 |
 | Lua | 5 | 43k | 0 |
     
 My profile page will probably become a bit prettier in the future, once I have proper ideas on what I can actually do with this.
