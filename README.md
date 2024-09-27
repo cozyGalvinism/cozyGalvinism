@@ -16,7 +16,7 @@ I've been coding for a little over 20 years, using various languages! See below,
 | Svelte | 8 | 118k | 3.18k |
 | Java | 7 | 102k | 0 |
 | JavaScript | 6 | 64.3k | 0 |
-| TypeScript | 5 | 50k | 1.56k |
+| TypeScript | 5 | 50k | 1.55k |
 | LaTeX | 5 | 49.7k | 0 |
 | Lua | 5 | 43k | 0 |
     
