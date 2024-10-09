@@ -32,6 +32,12 @@ jobs:
     - name: Install dependencies
       if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
       run: poetry install --no-interaction --no-root
+    - name: Configure poetry
+      if: steps.cached-poetry.outputs.cache-hit == 'true'
+      run: |-
+        poetry config virtualenvs.in-project true
+        poetry config virtualenvs.create true
+        poetry config virtualenvs.path .venv
     - name: Update README
       run: |-
         poetry run python build.py
